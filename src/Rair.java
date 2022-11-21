@@ -4,7 +4,7 @@ public class Rair {
     public String getNome() {
         return nome;
     }
-
+    //ee
     public void imprimirNomeCompleto(){
         System.out.println(this.nome);
     }
