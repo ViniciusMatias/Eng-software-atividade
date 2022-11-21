@@ -9,4 +9,11 @@ public class Vinicius {
         resultado = numero1+numero2;
         return resultado;
     }
+
+    public int subtrair(int num1, int num2){
+        numero1 = num1;
+        numero2 = num2;
+        resultado = numero1-numero2;
+        return resultado;
+    }
 }
